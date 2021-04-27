@@ -41,11 +41,11 @@ Connection between FTDI and MEGA 1284P:
 
 | FTDI        |       |    MEGA 1284P   |
 | :----:        |    :----:   |    :----:   |
-| Vcc        |    <-------->   |    5v   |
-| Gnd        |    <-------->   |    Gnd   |
-| Tx        |    <-------->   |    Rx   |
-| Rx        |    <-------->   |    Tx   |
-| RTS/DTR        |    <-------->   |    DTR   |
+| Vcc        |    <------->   |    5v   |
+| Gnd        |    <------->   |    Gnd   |
+| Tx        |    <------->   |    Rx   |
+| Rx        |    <------->   |    Tx   |
+| RTS/DTR        |    <------->   |    DTR   |
 
 ## SITE WHERE TO BUY PCB
 
