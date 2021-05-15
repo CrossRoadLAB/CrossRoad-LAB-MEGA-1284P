@@ -24,7 +24,7 @@
 
 ## PINOUT
 
-![CrossRoadLAB_Mega1284P_Rev1 5_pinout](https://user-images.githubusercontent.com/83240004/116134102-d102e100-a6cf-11eb-9115-a986740973cb.png)
+![MEGA1284P_pinout](https://user-images.githubusercontent.com/83240004/118370481-2b44e280-b5a8-11eb-859b-e33b96628943.png)
 
 ## LIBRARIES INSTALLATION
 
