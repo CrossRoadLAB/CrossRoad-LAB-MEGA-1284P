@@ -54,4 +54,4 @@ https://www.pcbway.com/project/shareproject/CROSSROAD_LAB_MEGA_1284P_REV__1_5.ht
 
 ## PROJECT SITE
 
-https://www.crossroadnetwork.org/CrossRoadLAB/projects/MEGA1284P.html
+https://www.crossroadlab.org/projects/MEGA1284P.html
